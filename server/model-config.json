@@ -34,5 +34,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "UserLB": {
+    "dataSource": "testLoopback",
+    "public": true
+  },
+  "blogs": {
+    "dataSource": "testLoopback",
+    "public": true
   }
 }

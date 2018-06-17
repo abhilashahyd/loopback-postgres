@@ -2,5 +2,14 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "testLoopback": {
+    "host": "pellefant.db.elephantsql.com",
+    "port": 5432,
+    "database": "nutfzjbt",
+    "username": "nutfzjbt",
+    "password": "capScQ2y7Jzc9c0s1wtWa_2xAcFhqq7k",
+    "name": "testLoopback",
+    "connector": "postgresql"
   }
 }
