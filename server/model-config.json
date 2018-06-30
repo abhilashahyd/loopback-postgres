@@ -35,11 +35,11 @@
     "dataSource": "db",
     "public": false
   },
-  "UserLB": {
+  "blogs": {
     "dataSource": "testLoopback",
     "public": true
   },
-  "blogs": {
+  "Employee": {
     "dataSource": "testLoopback",
     "public": true
   }

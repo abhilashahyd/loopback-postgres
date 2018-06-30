@@ -4,12 +4,13 @@
     "connector": "memory"
   },
   "testLoopback": {
-    "host": "pellefant.db.elephantsql.com",
-    "port": 5432,
-    "database": "nutfzjbt",
-    "username": "nutfzjbt",
-    "password": "capScQ2y7Jzc9c0s1wtWa_2xAcFhqq7k",
+    "host": "",
+    "port": 0,
+    "url": "postgres://nebtgxka:P51rDmH4909R2RGW6L-f2jkYrod1OODD@pellefant.db.elephantsql.com:5432/nebtgxka",
+    "database": "",
+    "password": "",
     "name": "testLoopback",
+    "user": "",
     "connector": "postgresql"
   }
 }
