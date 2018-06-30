@@ -8,7 +8,7 @@ ds.automigrate('blogs', function(err) {
   var blogs = [
     {
       title: 'My first Blog',
-      author: 'Skillgaze',
+      author: 'WTT',
       creationDate: new Date(),
       body:'Test data for the blog',
       tags:'loopback',
@@ -16,7 +16,7 @@ ds.automigrate('blogs', function(err) {
     },
     {
       title: 'Another Blog',
-      author: 'Skillgaze',
+      author: 'WTT',
       creationDate: new Date(),
       body:'Test again for loopback with postgresql',
       tags:'loopback',
